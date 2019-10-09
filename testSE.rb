@@ -1,3 +1,4 @@
+#2019/10/9 j1624 hase
 require 'numo/narray'
 include Numo
 
